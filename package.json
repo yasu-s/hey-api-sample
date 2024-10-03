@@ -1,0 +1,10 @@
+{
+  "name": "hey-api-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hey-api/client-fetch": "^0.4.0"
+  },
+  "devDependencies": {
+    "@hey-api/openapi-ts": "^0.53.6"
+  }
+}
